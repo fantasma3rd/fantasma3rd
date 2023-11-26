@@ -7,8 +7,8 @@ I'm 怪盗キッド三世 (KAITOKID3rd).
 
 I plan, produce and manage Minecraft projects.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kaitokid3rd&show_icons=true)
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitokid3rd)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=kaitokid3rd&show_icons=true&count_private=true)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitokid3rd&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 
