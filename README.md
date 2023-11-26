@@ -3,7 +3,7 @@
 I'm Kid 3rd (fantasma) from Japan.
 
 - Software Engineer
-- Minecraft Enthusiast
+- Minecraft Player
 
 ![github stats](https://github-readme-stats-sigma-two-79.vercel.app/api/?username=KAITOKID3rd&count_private=true&theme=dark&title_color=83f52c&text_color=00fe65&locale=en&include_all_commits=true&show_icons=true)
 [![languages](https://github-readme-stats-sigma-two-79.vercel.app/api/top-langs/?username=KAITOKID3rd&count_private=true&theme=dark&title_color=83f52c&text_color=00fe65&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
