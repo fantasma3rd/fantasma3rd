@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm 怪盗キッド三世 (KAITOKID3rd).
+I'm Kid 3rd (fantasma) from Japan.
 
-- Server Engineer
-- Minecraft Project Producer and Developer
-
-I plan, produce and manage Minecraft projects.
+- Software Engineer
+- Minecraft Enthusiast
 
 ![github stats](https://github-readme-stats-sigma-two-79.vercel.app/api/?username=KAITOKID3rd&count_private=true&theme=dark&title_color=83f52c&text_color=00fe65&locale=en&include_all_commits=true&show_icons=true)
 [![languages](https://github-readme-stats-sigma-two-79.vercel.app/api/top-langs/?username=KAITOKID3rd&count_private=true&theme=dark&title_color=83f52c&text_color=00fe65&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,3 +34,6 @@ I plan, produce and manage Minecraft projects.
 ![intellij idea](https://img.shields.io/badge/-intellij%20IDEA-000.svg?style=for-the-badge&logo=intellij-idea)
 ![xcode](https://img.shields.io/badge/-Xcode-EEE.svg?style=for-the-badge&logo=xcode)
 ![vim](https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim)
+
+
+Last Updated on 11/26/2023
