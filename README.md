@@ -18,11 +18,11 @@ I'm Kid 3rd (fantasma) from Japan.
 
 ![python](https://img.shields.io/badge/-Python-F9DC3E.svg?style=for-the-badge&logo=python)
 ![java](https://img.shields.io/badge/-Java-ED8B00.svg?style=for-the-badge&logo=openjdk)
+![php](https://img.shields.io/badge/-PHP-ccc.svg?style=for-the-badge&logo=php)
+![javascript](https://img.shields.io/badge/-Javascript-276DC3.svg?style=for-the-badge&logo=javascript)
 
 ![html5](https://img.shields.io/badge/-HTML5-333.svg?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
-![javascript](https://img.shields.io/badge/-Javascript-276DC3.svg?style=for-the-badge&logo=javascript)
-![php](https://img.shields.io/badge/-PHP-ccc.svg?style=for-the-badge&logo=php)
 
 ![linux](https://img.shields.io/badge/-Linux-6C6694.svg?style=for-the-badge&logo=linux)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?style=for-the-badge&logo=ubuntu)
