@@ -10,7 +10,7 @@ I'm Kid 3rd (fantasma) from Japan.
 
 ### Links
 
-[![twitter badge](https://img.shields.io/badge/X-@KAITOKID3rd-1d0002?style=for-the-badge&logo=x)](https://twitter.com/KAITOKID3rd)
+[![twitter badge](https://img.shields.io/badge/X-@fantasma_3rd-1d0002?style=for-the-badge&logo=x)](https://twitter.com/fantasma_3rd)
 [![blog badge](https://img.shields.io/badge/blog-kaitokid3rd-ffffff?style=for-the-badge)](https://kaitokid3rd.hatenablog.com/)
 [![speakerdeck badge](https://img.shields.io/badge/speakerdeck-kaitokid3rd-019287?style=for-the-badge)](https://speakerdeck.com/kaitokid3rd)
 
