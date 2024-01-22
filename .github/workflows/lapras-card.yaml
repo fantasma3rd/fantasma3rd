@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
+          GH_TOKEN: ${{ secrets.TOKEN }}
           SHARE_ID: "fantasma3rd"
           ICON_FIRST: "#023103"
           ICON_SECOND: "#03591d"
