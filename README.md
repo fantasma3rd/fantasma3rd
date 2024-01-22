@@ -16,13 +16,13 @@ Last Updated on 1/22/2024, 2:02:47 PM</p>
 
 [![twitter badge](https://img.shields.io/badge/X-@fantasma_3rd-1d0002?style=for-the-badge&logo=x)](https://twitter.com/fantasma_3rd)
 [![blog badge](https://img.shields.io/badge/blog-kaitokid3rd-ffffff?style=for-the-badge)](https://kaitokid3rd.hatenablog.com/)
-[![speakerdeck badge](https://img.shields.io/badge/speakerdeck-kaitokid3rd-019287?style=for-the-badge)](https://speakerdeck.com/kaitokid3rd)
+[![speakerdeck badge](https://img.shields.io/badge/speakerdeck-fantasma3rd-019287?style=for-the-badge)](https://speakerdeck.com/fantasma3rd)
 
 ### Skills
 
-![python](https://img.shields.io/badge/-Python-F9DC3E.svg?style=for-the-badge&logo=python)
 ![java](https://img.shields.io/badge/-Java-ED8B00.svg?style=for-the-badge&logo=openjdk)
 ![php](https://img.shields.io/badge/-PHP-ccc.svg?style=for-the-badge&logo=php)
+![python](https://img.shields.io/badge/-Python-F9DC3E.svg?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/-Javascript-276DC3.svg?style=for-the-badge&logo=javascript)
 
 ![html5](https://img.shields.io/badge/-HTML5-333.svg?style=for-the-badge&logo=html5)
@@ -37,4 +37,3 @@ Last Updated on 1/22/2024, 2:02:47 PM</p>
 ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
 ![intellij idea](https://img.shields.io/badge/-intellij%20IDEA-000.svg?style=for-the-badge&logo=intellij-idea)
 ![xcode](https://img.shields.io/badge/-Xcode-EEE.svg?style=for-the-badge&logo=xcode)
-![vim](https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim)
