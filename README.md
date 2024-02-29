@@ -15,7 +15,7 @@ Last Updated on 2/29/2024, 12:59:22 AM</p>
 ### Links
 
 [![twitter badge](https://img.shields.io/badge/X-@fantasma_3rd-1d0002?style=for-the-badge&logo=x)](https://twitter.com/fantasma_3rd)
-[![blog badge](https://img.shields.io/badge/blog-kaitokid3rd-ffffff?style=for-the-badge)](https://kaitokid3rd.hatenablog.com/)
+[![blog badge](https://img.shields.io/badge/blog-fantasma3rd-ffffff?style=for-the-badge)](https://fantasma3rd.hatenablog.jp/)
 [![speakerdeck badge](https://img.shields.io/badge/speakerdeck-fantasma3rd-019287?style=for-the-badge)](https://speakerdeck.com/fantasma3rd)
 
 ### Skills
