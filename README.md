@@ -29,9 +29,6 @@ Last Updated on 4/7/2024, 1:06:42 AM</p>
 ![css3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
 
 ![linux](https://img.shields.io/badge/-Linux-6C6694.svg?style=for-the-badge&logo=linux)
-![ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?style=for-the-badge&logo=ubuntu)
-![debian](https://img.shields.io/badge/-Debian-A81D33.svg?style=for-the-badge&logo=debian)
-![aws](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws)
 ![google cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?style=for-the-badge&logo=google-cloud)
 
 ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
