@@ -9,7 +9,7 @@ I'm Kid 3rd (fantasma) from Japan.
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/fantasma3rd" target="_blank" rel="noopener noreferrer"><img alt="fantasma3rd's scores on LAPRAS are as follows: Engineering: 3.23 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.01 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.23&b=2.85&i=3.01&b1=%23023112&b2=%2312731d&i1=%23023103&i2=%2303591d&l=en" width="400" ></a>  
-Last Updated on 9/23/2024, 1:19:22 AM</p>
+Last Updated on 9/24/2024, 1:19:49 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### Links
