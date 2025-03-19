@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Kid 3rd (fantasma) from Japan.
+I'm Naoya Ohkubo (fantasma) from Japan.
 
-- Software Engineer
+- Computer Engineering Student
 - Minecraft Education Ambassador
 
 ### Status
