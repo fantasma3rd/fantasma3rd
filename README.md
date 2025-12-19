@@ -38,4 +38,4 @@ Last Updated on 12/19/2025, 1:46:08 AM</p>
 ![intellij idea](https://img.shields.io/badge/-intellij%20IDEA-000.svg?style=for-the-badge&logo=intellij-idea)
 ![xcode](https://img.shields.io/badge/-Xcode-EEE.svg?style=for-the-badge&logo=xcode)
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=fantasma3rd&style=for-the-badge alt=fantasma/> </p>
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=fantasma3rd&style=for-the-badge alt=fantasma/> </p>
