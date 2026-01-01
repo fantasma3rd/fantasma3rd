@@ -11,8 +11,8 @@ I'm Naoya Ohkubo (fantasma) from Japan.
 [![languages](https://github-readme-stats-sigma-two-79.vercel.app/api/top-langs/?username=fantasma3rd&count_private=true&theme=dark&title_color=83f52c&text_color=00fe65&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/fantasma3rd" target="_blank" rel="noopener noreferrer"><img alt="fantasma3rd's scores on LAPRAS are as follows: Engineering: 3.23 out of 5.0, Business: 2.85 out of 5.0, Influence: 2.99 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.23&b=2.85&i=2.99&b1=%23023112&b2=%2312731d&i1=%23023103&i2=%2303591d&l=en" width="400" ></a>  
-Last Updated on 12/31/2025, 1:48:26 AM</p>
+<p ><a href="https://lapras.com/public/fantasma3rd" target="_blank" rel="noopener noreferrer"><img alt="fantasma3rd's scores on LAPRAS are as follows: Engineering: 3.24 out of 5.0, Business: 2.85 out of 5.0, Influence: 2.98 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.24&b=2.85&i=2.98&b1=%23023112&b2=%2312731d&i1=%23023103&i2=%2303591d&l=en" width="400" ></a>  
+Last Updated on 1/1/2026, 1:58:19 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### Links
